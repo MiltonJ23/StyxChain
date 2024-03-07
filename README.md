@@ -7,4 +7,7 @@ Ma toute première --vraiment basique-- Blockchain ; Un défi de réaliser ; mai
   un petit pas de bébé
     un grand pas de professionnel 
 ```
- 😁 les Pros faites , je suis à l'écoute des conseils ✌🏾
+---
+Pour ma part la compilation était manuelle --sans IDE 😅 forcément-- 
+
+ 😁 les Pros si vous avez des orientations à me donner quant aux prochaines étapes dans ma journée  ,  je suis à l'écoute des conseils ✌🏾
